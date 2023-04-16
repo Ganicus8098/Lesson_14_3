@@ -28,14 +28,14 @@
    flex-direction: row;
    justify-content: space-between;
    column-gap: 64px;
-   flex: 0, 0, 859px;
+   flex: 0 0 859px;
 }
 
 .information-block__first-info-block {
    display: flex;
    flex-direction: column;
    row-gap: 25px;
-   flex: 0, 0, 325px;
+   flex: 0 0 325px;
 }
 
 .first-info-block__logo-item {
@@ -189,7 +189,7 @@
    display: flex;
    flex-direction: column;
    row-gap: 40px;
-   flex: 0, 0, 357px;
+   flex: 0 0 357px;
 }
 
 .explore-links__name-explore-links {
@@ -259,7 +259,7 @@
    display: flex;
    flex-direction: column;
    row-gap: 10px;
-   flex: 0, 0, 255px;
+   flex: 0 0 255px;
 }
 
 .all-contacts__name-contacts-block {
@@ -396,7 +396,7 @@
    flex-direction: row;
    justify-content: space-between;
    column-gap: 95px;
-   flex: 0, 0, 1080px;
+   flex: 0 0 1080px;
 }
 
 .contents-block__lorem-block {
